@@ -1,6 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
-## 🌱 I’m currently learning ...
+## 🌱 My Learning Journey on roadmap.sh!
+
 [![roadmap.sh](https://roadmap.sh/card/tall/673559d7e86e9ff4d2a3a079?variant=dark&roadmaps=full-stack%2Cbackend%2Cspring-boot)](https://roadmap.sh)
 
 <!--
