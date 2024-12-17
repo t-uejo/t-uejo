@@ -14,7 +14,7 @@ Hi, I'm a Backend Developer. 🤝
 
 ## 🚀 My Learning Journey on roadmap.sh!
 
-[![roadmap.sh](https://roadmap.sh/card/wide/673559d7e86e9ff4d2a3a079?variant=dark&roadmaps=backend%2Cspring-boot)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/673559d7e86e9ff4d2a3a079?variant=light&roadmaps=backend%2Cspring-boot)](https://roadmap.sh)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
