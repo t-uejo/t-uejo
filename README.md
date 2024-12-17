@@ -1,9 +1,12 @@
 # Hi there 👋
+Hi, I'm a Backend Developer. 🤝
 
-## 🌱 My Learning Journey on roadmap.sh!
+<!--## 🌱 My Learning Journey on roadmap.sh!
 
-[![roadmap.sh](https://roadmap.sh/card/tall/673559d7e86e9ff4d2a3a079?variant=dark&roadmaps=full-stack%2Cbackend%2Cspring-boot)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/673559d7e86e9ff4d2a3a079?variant=dark&roadmaps=full-stack%2Cbackend%2Cspring-boot)](https://roadmap.sh)-->
 
+## 🌱 My Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,spring,idea,eclipse,gradle,maven,jenkins,aws,docker,mysql,postgres,jquery,astro,sass,tailwind,vite" />
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
