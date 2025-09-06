@@ -3,7 +3,7 @@ Hi, I'm a Backend Developer. 🤝
 
 
 ## 🌱 My Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,spring,idea,eclipse,gradle,maven,jenkins,aws,docker,mysql,postgres,jquery,astro,sass,tailwind,vite" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,spring,idea,eclipse,gradle,maven,jenkins,aws,terraform,docker,kubernetes,openshift,mysql,postgres,jquery,astro,sass,tailwind,vite" />
 
 ## 🌈 Status
 <p align="left"> 
